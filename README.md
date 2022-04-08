@@ -9,8 +9,7 @@ Multiple packages were used in the notebook:
 
 Work Order
 - EDA
-- Fiture selection
-- Data cleaning
+- Fiture selection & Data cleaning
 - Data preprocessing
 - PCA
 - Skree plot 
